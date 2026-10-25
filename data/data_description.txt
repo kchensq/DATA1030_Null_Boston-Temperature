@@ -1,0 +1,9 @@
+time: Calendar date of the observation (local time, format YYYY-MM-DD)
+
+temperature_2m_mean: Daily mean air temperature at 2 m above ground, in degrees Celsius
+
+precipitation_sum: Total daily precipitation, including rain, showers and snowfall, in millimeters
+
+wind_speed_10m_max: Maximum wind speed at 10 m above ground on a day, in kilometers per hour
+
+snowfall_sum: Total daily snowfall, in centimeters
