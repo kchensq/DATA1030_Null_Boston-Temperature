@@ -1,2 +1,11 @@
-# DATA1030_Null_Boston-Temperature
-Semester-long project for DATA 1030, Fall 2026: Predicting next-day mean temperature in Boston using historical weather data.
+# Predicting Next-Day Mean Temperature in Boston
+Semester-long project for DATA 1030, Fall 2026, Brown University.
+
+## Team
+
+**Team name:** Null
+
+**Team Members:**
+- Siqi Chen
+- Luehan Wang
+- Xinxiong Zhao
